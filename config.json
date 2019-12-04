@@ -1,7 +1,8 @@
 {
-  "first_app": "",
-  "change_calculator": "",
-  "mortgage_calculator": "",
-  "top_spots": "",
-  "vstda": ""
+  "first_app": "https://floating-savannah-69754.herokuapp.com/",
+  "change_calculator": "https://arcane-wave-62176.herokuapp.com/",
+  "mortgage_calculator": "https://stark-hollows-61862.herokuapp.com/",
+  "top_spots": "https://still-garden-29278.herokuapp.com/",
+  "vstda": "https://warm-crag-82888.herokuapp.com/",
+  "hackathon": "https://pure-ridge-79479.herokuapp.com/"
 }
